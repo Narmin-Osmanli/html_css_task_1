@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    background: #FFFFFF;
+    width: 1440px;
+    height: 68px;
+
+    section{
+        img{
+            size: 30px;
+            width: 96px;
+            height: 36px;
+        }
+    }
+}
